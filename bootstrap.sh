@@ -6,7 +6,7 @@ curl -L https://chef.io/chef/install.sh | sudo bash
 
 # Update ubuntu packages
 sudo apt-get update
-
+ABCD
 # Install RVM
 curl -sSL https://rvm.io/mpapis.asc | gpg --import
 curl -sSL https://get.rvm.io | bash -s stable --ruby
